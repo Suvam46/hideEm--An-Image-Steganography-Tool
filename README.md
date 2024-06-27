@@ -1,3 +1,2 @@
 # hideEm--An-Image-Steganography-Tool
-It is an open-source tool written in Python. It accepts data, a password, and an image as input and hides the data within the image.
-The tool uses a symmetric key for encryption and decryption.
+This open-source Python tool integrates cryptography and steganography to securely embed data within an image. Utilizing symmetric key encryption, it ensures that the concealed data remains protected and accessible only to authorized users with the correct password.
